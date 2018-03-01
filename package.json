@@ -1,0 +1,35 @@
+{
+  "name": "itdog-slaughterhouse",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack -p",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawTim/itdog-slaughterhouse.git"
+  },
+  "author": "ShawTim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawTim/itdog-slaughterhouse/issues"
+  },
+  "homepage": "https://github.com/ShawTim/itdog-slaughterhouse#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "copy-webpack-plugin": "^4.4.1",
+    "css-loader": "^0.28.9",
+    "image-picker": "^0.3.1",
+    "install": "^0.10.4",
+    "matter-js": "^0.14.1",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.20.1",
+    "url-loader": "^0.6.2",
+    "vex-js": "^4.1.0",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {}
+}
