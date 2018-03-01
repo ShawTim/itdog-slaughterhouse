@@ -135,7 +135,7 @@ const initRender = () => {
     }
     Matter.Composite.add(stack, bodies);
 
-    if (state.allBodies.length > 800) {
+    if (state.allBodies.length > 500) {
       clearInterval(state.timer);
     }
   };
