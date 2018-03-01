@@ -5,6 +5,8 @@ People who study in IT should not be the one who provide free computer repairing
 
 See [demo](https://shawtim.github.io/itdog-slaughterhouse/) on Github page.
 
+![Introduction](https://shawtim.github.io/itdog-slaughterhouse/intro.png)
+
 ### Installation
 `npm i`
 
